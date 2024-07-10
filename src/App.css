@@ -1,0 +1,88 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+#container{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  text-align: center;
+  margin: 2em;
+  margin-top: 18em;
+  padding: 2em;
+  background-color: rgba(15, 252, 141, 0.87);
+  border: 0.08em solid black;
+  border-radius: 1em;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  transition: 0.2s all;
+}
+button{
+  padding: 0.5em;
+  border-radius: 1em;
+  border: 0.08em solid black;
+  align-self: flex-end;
+  cursor: pointer;
+  margin: 1em;
+
+}
+#controls{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  text-align: center;
+  border:0.08em solid black;
+  border-radius: 1em;
+  padding: 1em;
+  margin: 1em;
+}
+#session-label{
+  width: 7em;
+  align-self: center;
+
+}
+#break-label{
+  width: 7em;
+  align-self: center;
+  
+}
+#session{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  text-align: center;
+  width: 50%;
+}
+#break{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  text-align: center;
+  width: 50%;
+}
+#break-display{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  text-align: center;
+}
+#session-display{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  text-align: center;
+}
+#time-left{
+  border:0.08em solid black;
+  border-radius: 1em;
+  padding: 1em;
+}
+#start_stop{align-self: center;}
+#reset{align-self: center;}
