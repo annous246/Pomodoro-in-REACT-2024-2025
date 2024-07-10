@@ -9,5 +9,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # Pomodoro-in-React-2024-2025
-Customizable Pomodoro
+Customizable Pomodoro <br>
+![Uploading image.png…]()
+
 >>>>>>> 55a04120c407bf9369b02d7ab04d7c5d8d5c9fe3
