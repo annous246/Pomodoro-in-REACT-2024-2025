@@ -10,6 +10,7 @@ Currently, two official plugins are available:
 =======
 # Pomodoro-in-React-2024-2025
 Customizable Pomodoro <br>
-![Uploading image.png…]()
+![image](https://github.com/annous246/Pomodoro-in-REACT-2024-2025/assets/64448280/095edb7f-e161-4130-8e15-fe209e53367a)
+
 
 >>>>>>> 55a04120c407bf9369b02d7ab04d7c5d8d5c9fe3
